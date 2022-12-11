@@ -1,2 +1,2 @@
-# git-PageObjact
-Page Objact
+# git-PageObject
+Page Object
